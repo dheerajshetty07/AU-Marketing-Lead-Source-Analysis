@@ -4,7 +4,7 @@
 This analysis explores the effectiveness of online marketing channels for an American university, tracking leads from initial contact through enrollment. It compares the cost efficiency of various lead sources such as paid social, display, email, and webinars for acquiring domestic versus international students. The study highlights significant cost disparities, with international student acquisition proving far more expensive, and identifies web leads as a cost-free channel. Additionally, it examines enrollment trends across U.S. states, pinpointing areas of high and low student contribution, and suggests further investigation into geographic, demographic, and strategic factors driving these outcomes.
 
 ## Dataset
-The dataset tracks leads from initial contact to enrollment through the American University's marketing funnel. It includes:
+The dataset includes leads from initial contact to enrollment through the American University's marketing funnel. It includes:
 
 **Marketing Channels:** Costs and performance metrics for lead sources (e.g., Paid Social, Display, Email).
 
