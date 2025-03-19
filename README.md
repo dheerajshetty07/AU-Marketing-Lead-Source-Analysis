@@ -7,8 +7,11 @@ This analysis explores the effectiveness of online marketing channels for an Ame
 The dataset tracks leads from initial contact to enrollment through the American University's marketing funnel. It includes:
 
 **Marketing Channels:** Costs and performance metrics for lead sources (e.g., Paid Social, Display, Email).
+
 **Student Segments:** Breakdown of domestic vs. international student acquisition costs.
+
 **Enrollment Trends:** Geographic distribution of enrolled students across the U.S.
+
 **Additional Insights:** Suggestions for further analysis on geographic, demographic, and strategic factors.
 
 ## Objectives
